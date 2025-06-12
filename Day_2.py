@@ -85,3 +85,5 @@ print("Edad:", edad_usuario)
 # Palabras clave reservadas en Python
 print("\nPalabras clave reservadas en Python:")
 help('keywords')
+
+#Variables y funciones incorporadas
